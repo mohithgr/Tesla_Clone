@@ -2,6 +2,7 @@
 I did this as one of my React-native practice project following an Youtube tutorial
 
 ## Technologies
+  * JavaScript
   * React-Native
   * Expo Go
  
